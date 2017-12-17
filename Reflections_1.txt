@@ -1,0 +1,1 @@
+Wymagania funkcjonalne mówi¹ co, a niefunkcjonalne mówi¹ jak.
