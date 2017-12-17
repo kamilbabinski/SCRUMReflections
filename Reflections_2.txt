@@ -1,0 +1,1 @@
+TDD to testowe uruchamianie kodu w jeszcze nie kompletnej wersji.
